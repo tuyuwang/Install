@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/TuYuWang/Install/blob/gh-pages/57pt-@2x.png</string>
+					<string>https://github.com/TuYuWang/Install/blob/gh-pages/m_57x57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/TuYuWang/Install/blob/gh-pages/512pt-@1x.png</string>
+					<string>https://github.com/TuYuWang/Install/blob/gh-pages/m_512x512.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
